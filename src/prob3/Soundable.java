@@ -1,5 +1,5 @@
 package prob3;
 
 public interface Soundable {
-	public String sound();
+	public abstract String sound();
 }
